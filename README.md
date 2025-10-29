@@ -50,6 +50,14 @@
 
 ---
 
+## 🧾 Total del presupuesto
+
+💰 **Total estimado:** **U$S 607**
+
+> *(Basado en precios de Thot Computación y Mercado Libre a octubre 2025)*
+
+---
+
 ## 📝 Notas finales
 - Configuración equilibrada para **1080p fluido (GTA V RP, Valorant, CS2, etc.)**.  
 - La **Deepcool PF650** cubre sobrado el consumo del **Ryzen 5600X + RX 580**.  

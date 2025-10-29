@@ -27,8 +27,10 @@
 ---
 
 ## 🧠 Memorias (RAM)
-**Memoria RAM DDR3 8GB 1600MHz para PC o Computadora**  
-🔗 [Ver producto](https://bit.ly/ramtirti)
+**Memoria HikSemi 8GB DDR4 3200MHz**  
+🔗 [Ver producto](https://thotcomputacion.com.uy/producto/memoria-hiksemi-8gb-ddr4-3200mhz/)
+
+> Sugerencia: para mejor rendimiento, apuntá a **16 GB (2×8 GB DDR4 3200 MHz)** en dual-channel.
 
 ---
 
@@ -39,7 +41,7 @@
 ---
 
 ## 📝 Notas finales
-- Este setup está pensado para obtener un **rendimiento fluido en 1080p** (GTA V RP, Valorant, CS2, etc.)  
-- La **fuente Deepcool PF650** cubre sobradamente el consumo del Ryzen 5600X + RX 580.  
-- La **placa Asus A520M-K** es completamente compatible con el procesador.  
-- Asegurate de conectar correctamente el cable **PCIe de 8 pines** a la GPU y mantener el sistema limpio y ventilado.
+- Este setup está pensado para **1080p fluido** (GTA V RP, Valorant, CS2, etc.).  
+- La **Asus A520M-K** soporta DDR4 hasta **3200 MHz JEDEC** y **frecuencias mayores vía DOCP/XMP**.  
+- La **Deepcool PF650** cubre sobrado el consumo del **Ryzen 5600X + RX 580**.  
+- Recordá conectar el **PCIe 8 pines** a la GPU y mantener buen flujo de aire.

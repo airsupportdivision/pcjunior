@@ -30,7 +30,7 @@
 **Memoria HikSemi 8GB DDR4 3200MHz**  
 🔗 [Ver producto](https://thotcomputacion.com.uy/producto/memoria-hiksemi-8gb-ddr4-3200mhz/)
 
-> Sugerencia: para mejor rendimiento, apuntá a **16 GB (2×8 GB DDR4 3200 MHz)** en dual-channel.
+> 💡 *Sugerencia:* para mejor rendimiento, apuntá a **16 GB (2×8 GB DDR4 3200 MHz)** en dual-channel.
 
 ---
 
@@ -40,8 +40,18 @@
 
 ---
 
+## 🖥️ Gabinete (Case)
+**Gabinete Antec AX20 – 3 fanes RGB – Cristal templado**  
+🔗 [Ver producto](https://thotcomputacion.com.uy/producto/gabinete-antec-ax20-3-fanes-rgb-cristal-templado/)
+
+> Incluye **3 ventiladores frontales RGB** y panel lateral de **vidrio templado**.  
+> Compatible con placas **micro-ATX**, fuentes **ATX estándar**, y GPU de hasta **300 mm**.  
+> Excelente ventilación frontal tipo **mesh** y diseño moderno por su precio.
+
+---
+
 ## 📝 Notas finales
-- Este setup está pensado para **1080p fluido** (GTA V RP, Valorant, CS2, etc.).  
-- La **Asus A520M-K** soporta DDR4 hasta **3200 MHz JEDEC** y **frecuencias mayores vía DOCP/XMP**.  
+- Configuración equilibrada para **1080p fluido (GTA V RP, Valorant, CS2, etc.)**.  
 - La **Deepcool PF650** cubre sobrado el consumo del **Ryzen 5600X + RX 580**.  
-- Recordá conectar el **PCIe 8 pines** a la GPU y mantener buen flujo de aire.
+- La **Asus A520M-K** soporta **DDR4 hasta 3200 MHz JEDEC** y perfiles DOCP/XMP más altos.  
+- Asegurate de conectar el **PCIe de 8 pines** a la GPU y mantener buen flujo de aire.  
